@@ -10,7 +10,7 @@ module.exports = {
       xl: '1440px',
     },
     backgroundImage: {
-      'marquee-desktop': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/360-degree-security-cameras/SarixMulti-Family-Header.jpeg')",
+      'marquee-desktop': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/360-degree-security-cameras/11.%20Panoramic%20360%20Desktop.jpg')",
       'marquee-mobile': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/360-degree-security-cameras/06-SarixMulti-Family-Header-mobile.jpg')",
     },
     extend: {
